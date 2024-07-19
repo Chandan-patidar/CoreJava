@@ -26,7 +26,7 @@ package JavaNotesByChandan.oopsinjava.encapuslution;
 
 }
 
-public class Aperson{
+public class PersonDemo{
 
 
 
