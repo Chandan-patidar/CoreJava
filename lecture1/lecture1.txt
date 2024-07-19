@@ -1,0 +1,15 @@
+Pascal Case : eg-    HelloWord , ChandanPatidar   => Class , Interface
+Snake Case : eg-     hello_world , chandan_patidar  =>
+Camel Case : eg-     helloWorld , chandanPatidar   => methods , varibles
+Kebab Cases : eg-    hello-world , chandna-patidar
+
+
+
+#program to helloworld
+
+class HelloWorldDemo {
+    public static void main(String [] args){
+     System.out.println("helloworld");
+    }
+}
+

@@ -1,0 +1,80 @@
+********************* Object-Oriented Programming ********************
+
+# Object-Oriented Programming
+
+Aim :-The main aim of object-oriented programming is to implement real-world entities, for example, object, classes,
+       abstraction, inheritance, polymorphism, etc.
+
+ Class :-
+
+ Object:-
+
+
+1. Encapsulation
+
+ Defination :- Encapsulation in Java refers to integrating data (variables) and code (methods) into a single unit. In encapsulation,
+ a class's variables are hidden from other classes and can only be accessed by the methods of the class in which they are found.
+                                                                or
+
+Encapsulation in Java is a process of wrapping code (method ) and data(Variable) together into a single unit, for example, a capsule which
+is mixed of several medicines.
+
+-> Given this, getters and setters are also known as accessors and mutators,
+
+
+* method which is used in Encapsulation
+
+1.getter method :- Getters: These are the methods used in Object-Oriented Programming (OOPS) which helps to access the
+private attributes from a class.
+
+
+2. setter method :- Setters: These are the methods used in OOPS feature which helps to set the value to private
+attributes in a class.
+
+
+
+
+
+Advantages of Encapsulation :-
+1.Better Control
+  Encapsulation provides ultimate control over the data members and data methods inside the class.
+
+  Getter and Setter
+  The standard IDEs provide in-built support for ‘Getter and Setter’ methods, which increases the programming pace.
+
+  Security
+  Encapsulation prevents access to data members and data methods by any external classes. The encapsulation process improves the security of the encapsulated data.
+
+  Flexibility
+  Changes made to one part of the code can be successfully implemented without affecting any other part of the code.
+
+2.
+3.
+4.
+5.
+
+
+
+
+Disadvantages  of Encapsulation:-
+1.
+2.
+3.
+4.
+5.
+
+
+Data Hiding vs. Encapsulation in Java
+
+                 Data Hiding                                 |                       Data Encapsulation
+-------------------------------------------------------------------------------------------------------------------------------
+   1.Data hiding can be considered as the parent process     |       Encapsulation is a sub-process of data hiding
+                                                             |
+   2.Access specifier is always private                      |       Access specifier can be private and public
+                                                             |
+   3.Data hiding is about hiding method implementation       |        Encapsulation is about combining methods with data members
+                                                             |
+   4.The main motto is to hide data and its implementation   |       The main motto is to combine data and their methods
+
+
+

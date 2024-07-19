@@ -1,0 +1,39 @@
+OOP : Oject Oriented  Programming
+
+A : Abstraction
+P : Polymorphism
+I : Inheritance
+E : Encapsulation
+
+class & object
+
+class : It is an template or imagination or blueprint
+oject : It is instance of class
+
+
+red is Color
+marrigold is Flower
+
+Syntax of class:
+
+class Flower{
+
+}
+
+Syntax of Object:
+
+Flower rose = new Flower();
+Flower lotus = new Flower();
+
+
+Encapsulation:
+
+
+
+
+
+
+
+
+
+
