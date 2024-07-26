@@ -11,9 +11,8 @@ Provide public getter and setter methods to access and modify these variables.
          Encapsulating the accountNumber  and  balance
          only approachable and used using
          methods defined
+
         */
-
-
 
     public long getAccountNumber() {
         return accountNumber;
@@ -25,7 +24,6 @@ Provide public getter and setter methods to access and modify these variables.
 
     public float getBalance() {
         return balance;
-
     }
 
     public void setBalance(float balance) {

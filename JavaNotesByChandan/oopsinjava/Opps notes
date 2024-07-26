@@ -76,5 +76,18 @@ Data Hiding vs. Encapsulation in Java
                                                              |
    4.The main motto is to hide data and its implementation   |       The main motto is to combine data and their methods
 
+1. Inheritance
+t
+
+Defination:-
 
 
+
+# Why Do We Need Java Inheritance?'
+
+ 1 code reusability:-The code written in the Superclass is common to all subclasses. Child classes can directly use the
+  parent class code.
+ 2  Method overriding :- is achievable only through Inheritance. It is one of the ways by which Java achieves Run Time
+ Polymorphism.
+ 3 Abstraction: The concept of abstract where we do not have to provide all details, is achieved through inheritance.
+  Abstraction only shows the functionality to the user.

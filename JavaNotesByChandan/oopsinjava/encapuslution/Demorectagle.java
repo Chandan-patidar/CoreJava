@@ -36,8 +36,8 @@ public  class Demorectagle {
         Reactagle x = new Reactagle();
         x.setLength(78.8f);
         x.setWidth(64.9f);
-        System.out.println("Length : " + x.getLength());
-        System.out.println("width : "  + x.getWidth());
+        System.out.println(" Length : " + x.getLength());
+        System.out.println(" width : "  + x.getWidth());
 
     }
 }

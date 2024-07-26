@@ -17,13 +17,30 @@ class Car{
     public String getCompanyName(){
         return companyName;
     }
-    // Setter method for company
+    // Setter method for company_name
     public void setCompanyName( String companyName ){
     this.companyName = companyName;
     }
+//--------------------------------------------------------------------------------------
+
+    public String getModelName() {
+        return modelName;
+    }
+
+    public void setModelName(String luxuryCoupe ){
+        this.modelName = modelName;
+    }
+//------------------------------------------------------------------------------------------
+    public int getYear(){
+        return year;
+    }
+
+    public void setYear(int ){
+
+    }
 
 
-    public void getCompanyName(String lexus) {
+    public void setMileage() {
     }
 }
 public class Main {
@@ -32,13 +49,19 @@ public class Main {
 
     // Set values using setter methods
         car1.setCompanyName("Lexus");
-
+        car1.setModelName("luxuryCoupe");
+        car1.setYear(1958);
+        car1.setMileage();
     // Get values using getter methods
         String companyName = car1.getCompanyName();
-
+        String modelName =car1.getModelName();
         // Print the values
 
-        System.out.println("company_name :" + companyName);
+        System.out.println("companyName : " + companyName);
+        System.out.println("modelName : " + modelName);
+        System.out.println("modelName : " + modelName);
+        System.out.println("modelName : " + modelName);
+
 
 
     }
