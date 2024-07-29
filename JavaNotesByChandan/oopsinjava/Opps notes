@@ -155,7 +155,12 @@ class  DerivedClass extends BaseClass{
 
 # Disadvantages of Inheritance in Java:
 
-1.Complexity: Inheritance can make the code more complex and harder to understand. This is especially true if the inheritance hierarchy is deep or if multiple inheritances is used.
+1.Complexity: Inheritance can make the code more complex and harder to understand. This is especially true if the
+inheritance hierarchy is deep or if multiple inheritances is used.
 
-2.Tight Coupling: Inheritance creates a tight coupling between the superclass and subclass, making it difficult to make changes to the superclass without affecting the subclass.
+2.Tight Coupling: Inheritance creates a tight coupling between the superclass and subclass, making it difficult to make
+ changes to the superclass without affecting the subclass.
 
+
+
+# Polymorphism
