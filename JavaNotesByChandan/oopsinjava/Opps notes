@@ -77,9 +77,14 @@ Data Hiding vs. Encapsulation in Java
    4.The main motto is to hide data and its implementation   |       The main motto is to combine data and their methods
 
 1. Inheritance
-t
 
-Defination:-
+
+Defination:-Inheritance in Java is a mechanism where one class is allowed to inherit the fields and methods of another
+class. The class that inherits is called the subclass or child class, and the class from which it inherits is called
+the superclass or parent class.
+
+
+
 
 
 
@@ -91,3 +96,66 @@ Defination:-
  Polymorphism.
  3 Abstraction: The concept of abstract where we do not have to provide all details, is achieved through inheritance.
   Abstraction only shows the functionality to the user.
+
+
+#  Important Terminologies Used in Java Inheritance
+
+Class:-Class is a set of objects which shares common characteristics/ behavior and common properties/ attributes.
+      Class is not a real-world entity. It is just a template or blueprint or prototype from which objects are created.
+
+Super Class/Parent Class:-The class whose features are inherited is known as a superclass(or a base class or a parent class).
+
+Sub Class/Child Class: -The class that inherits the other class is known as a subclass(or a derived class, extended class
+    , or child class). The subclass can add its own fields and methods in addition to the superclass fields and methods.
+
+Reusability:- Inheritance supports the concept of “reusability”, i.e. when we want to create a new class and there is
+       already a class that includes some of the code that we want, we can derive our new class from the existing class.
+       By doing this, we are reusing the fields and methods of the existing class.
+
+
+# How to Use Inheritance in Java?
+
+:-The extends keyword is used for inheritance in Java. Using the extends keyword indicates you are derived from an
+existing class. In other words, “extends” refers to increased functionality.
+
+
+Syntax :
+
+class  DerivedClass extends BaseClass{
+        // method are filed
+}
+
+
+
+
+#  Types of Inheritance:-
+
+1.Single Inheritance
+2.Multilevel Inheritance
+3.Hierarchical Inheritance
+4.Multiple Inheritance(Although with interfaces, multiple inheritances are supported by Java.)
+5.Hybrid Inheritance
+
+1. Single Inheritance
+
+
+
+
+
+# Advantages Of Inheritance in Java:
+
+1.Code Reusability: Inheritance allows for code reuse and reduces the amount of code that needs to be written. The subclass can reuse the properties and methods of the superclass, reducing duplication of code.
+
+2.Abstraction: Inheritance allows for the creation of abstract classes that define a common interface for a group of related classes. This promotes abstraction and encapsulation, making the code easier to maintain and extend.
+
+3.Class Hierarchy: Inheritance allows for the creation of a class hierarchy, which can be used to model real-world objects and their relationships.
+
+4.Polymorphism: Inheritance allows for polymorphism, which is the ability of an object to take on multiple forms. Subclasses can override the methods of the superclass, which allows them to change their behavior in different ways.
+
+
+# Disadvantages of Inheritance in Java:
+
+1.Complexity: Inheritance can make the code more complex and harder to understand. This is especially true if the inheritance hierarchy is deep or if multiple inheritances is used.
+
+2.Tight Coupling: Inheritance creates a tight coupling between the superclass and subclass, making it difficult to make changes to the superclass without affecting the subclass.
+

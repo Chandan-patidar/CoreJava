@@ -35,7 +35,7 @@ class Car{
         return year;
     }
 
-    public void setYear(int ){
+    public void setYear(int year){
 
     }
 
