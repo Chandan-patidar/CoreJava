@@ -163,4 +163,53 @@ inheritance hierarchy is deep or if multiple inheritances is used.
 
 
 
-# Polymorphism
+3.  Polymorphism
+  poly-> many
+  morphism ->  forms
+
+  APIE->
+        encapsulation-> binding or wrapping that state or behavior
+        Inheritence ->
+        polymorsphism ->
+
+        compile time and runtime
+        static and dynamic
+        early binding and late binding
+
+
+        -> overloading          ->overiding
+Defination:-
+
+Polymorphism allows us to perform a single action in different ways. In other words, polymorphism allows you to define one
+ interface and have multiple implementations. The word “poly” means many and “morphs” means forms, So it means many forms.
+
+# Types of Java Polymorphism
+
+1.Compile-time Polymorphism
+2.Runtime Polymorphism
+
+
+1.Compile-time Polymorphism:-
+-> It is also known as static polymorphism.
+-> This type of polymorphism is achieved by function overloading or operator overloading.
+Note: But Java doesn’t support the Operator Overloading.
+
+
+ * Method Overloading
+ :- When there are multiple functions with the same name but different parameters then these functions are said to be
+ overloaded. Functions can be overloaded by changes in the number of arguments or/and a change in the type of arguments.
+
+
+# Subtypes of Compile-time Polymorphism
+
+ 1. Function Overloading
+ It is a feature in C++ where multiple functions can have the same name but with different parameter lists. The compiler
+  will decide which function to call based on the number and types of arguments passed to the function.
+
+ 2. Operator Overloading
+ It is a feature in C++ where the operators such as +, -, *, etc. can be given additional meanings when applied to
+ user-defined data types.
+
+ 3. Template
+ it is a powerful feature in C++ that allows us to write generic functions and classes. A template is a blueprint
+ for creating a family of functions or classes.
