@@ -214,5 +214,6 @@ Note: But Java doesn’t support the Operator Overloading.
  3. Template
  it is a powerful feature in C++ that allows us to write generic functions and classes. A template is a blueprint
  for creating a family of functions or classes.
-q
+
+2.Runtime Polymorphism:-
 
