@@ -217,3 +217,35 @@ Note: But Java doesn’t support the Operator Overloading.
 
 2.Runtime Polymorphism:-
 
+
+
+
+4. Abstraction:-
+
+Define :-
+Abstraction in Java is the process in which we only show essential details/functionality to the user.
+The non-essential implementation details are not displayed to the user.
+
+
+Abstraction is a process of hiding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
