@@ -144,13 +144,17 @@ class  DerivedClass extends BaseClass{
 
 # Advantages Of Inheritance in Java:
 
-1.Code Reusability: Inheritance allows for code reuse and reduces the amount of code that needs to be written. The subclass can reuse the properties and methods of the superclass, reducing duplication of code.
+1.Code Reusability: Inheritance allows for code reuse and reduces the amount of code that needs to be written. The
+subclass can reuse the properties and methods of the superclass, reducing duplication of code.
 
-2.Abstraction: Inheritance allows for the creation of abstract classes that define a common interface for a group of related classes. This promotes abstraction and encapsulation, making the code easier to maintain and extend.
+2.Abstraction: Inheritance allows for the creation of abstract classes that define a common interface for a group of
+related classes. This promotes abstraction and encapsulation, making the code easier to maintain and extend.
 
-3.Class Hierarchy: Inheritance allows for the creation of a class hierarchy, which can be used to model real-world objects and their relationships.
+3.Class Hierarchy: Inheritance allows for the creation of a class hierarchy, which can be used to model real-world
+objects and their relationships.
 
-4.Polymorphism: Inheritance allows for polymorphism, which is the ability of an object to take on multiple forms. Subclasses can override the methods of the superclass, which allows them to change their behavior in different ways.
+4.Polymorphism: Inheritance allows for polymorphism, which is the ability of an object to take on multiple forms.
+ Subclasses can override the methods of the superclass, which allows them to change their behavior in different ways.
 
 
 # Disadvantages of Inheritance in Java:
@@ -273,10 +277,17 @@ TO access the abstract class, it must be inherited  from another class. Let's co
 polymorphism
 
 
+ # Interfaces
+
+ Define :- An interface is a completely "abstract class" that is used to group related methods with empty bodies:
 
 
-
-
+Example:-
+// interface
+ interface Animal{
+ public void animalSound();// interface does not have body
+ public void run();// interface does not have body
+ }
 
 
 

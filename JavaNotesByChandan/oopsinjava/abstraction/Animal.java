@@ -21,6 +21,5 @@ class main{
         Pig myPig = new Pig(); // create a pig object
         myPig.animalSound();
         myPig.sleep();
-
     }
 }
