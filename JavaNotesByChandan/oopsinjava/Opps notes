@@ -290,8 +290,22 @@ Example:-
  }
 
 
+# Enums
+Enum is short for "enumerations", which means "specifically listed".
+
+Define :- An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables).
 
 
+ :- You can access enum constants with the dot syntax:
+
+Example :-
+enum Level {
+  LOW,
+  MEDIUM,
+  HIGH
+}
+
+You can access enum constants with the dot syntax:
 
 
 
