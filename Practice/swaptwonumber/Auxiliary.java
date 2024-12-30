@@ -5,6 +5,7 @@ package Practice.swaptwonumber;
 //  Creating an auxiliary memory cell in the memory.
 public class Auxiliary {
     public static void main(String[] args){
+    
         int m=9 ,n=5;
         swapvalueusingthirdvariable(m,n);
 
