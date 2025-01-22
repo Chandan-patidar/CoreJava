@@ -12,6 +12,7 @@ class  Flower{                    //NOUN
         this.color = color;
         this.size = size;
         this.smell = smell;
+        
     }
 e
 
