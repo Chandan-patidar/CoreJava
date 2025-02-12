@@ -15,6 +15,7 @@ public class Characters {
         System.out.println(myVar4);
 
 // # Strings
+        
         String Greeting ="Hello world";
         System.out.println(Greeting);
 
