@@ -8,6 +8,7 @@ public class Bexpression {
     */
         // comparison operator
         // greater than(>) operator to find the expression of true or false
+        
         int x = 10;
         int y = 5;
         System.out.println(x > y);
