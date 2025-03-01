@@ -12,11 +12,13 @@ public class Bexpression {
         int x = 10;
         int y = 5;
         System.out.println(x > y);
+        
         // or even
 
         System.out.println(60>70);
 
         // equal to (==) operator
+        
         System.out.println(x==10);
 
         System.out.println(20==10);
