@@ -6,6 +6,7 @@ Define  :-
 The Java collections framework is a set of classes and interfaces that implement commonly reusable collection\
 data structures.
 
+
 :-Java Collections can achieve all the operations that you perform on a data such as searching, sorting, insertion,
  manipulation, and deletion.
 
