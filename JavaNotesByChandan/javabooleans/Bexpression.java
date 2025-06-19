@@ -14,8 +14,6 @@ public class Bexpression {
         System.out.println(x > y);
         
         // or even
-        
-
         System.out.println(60>70);
 
         // equal to (==) operator
