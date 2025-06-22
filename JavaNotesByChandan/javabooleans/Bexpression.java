@@ -35,9 +35,5 @@ public class Bexpression {
         }else{
             System.out.println(" Note old enough to vote ! ");
         }
-
-
-
     }
-
 }
